@@ -32,6 +32,7 @@
 }
 
 .input-box {
+    width: 100%;
     margin: 40px 0px;
     padding: 35px;
     border-radius: 10px;
@@ -95,4 +96,17 @@
     .end{
         margin-left: 7rem;
     }
+    .input-box{
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 12px;
+        padding: 0px;
+    }
+    #result{
+        font-size: 20px;
+    }
+    .calculator h1{
+font-size: 55px;
+    }
+    
 }
