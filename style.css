@@ -28,7 +28,7 @@
 }
 
 .calculator span {
-    color: #000
+    color: #fff
 }
 
 .input-box {
@@ -60,6 +60,7 @@
     cursor: pointer;
     background: #fff;
     color: #000;
+    font-size: 18px;
 }
 
 .input-box input::-webkit-calendar-picker-indicator {
